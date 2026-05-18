@@ -69,8 +69,6 @@ Building as a **full-stack enterprise application** with a scalable architecture
 
 ---
 
-# 🐍 Contribution Snake
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
